@@ -51,8 +51,10 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikhitha-katna&style=flat-square&color=blue" alt="Profile Views" />
+  <h2>Thank you for visiting my GitHub profile!</h2>
+  <p>I am a **Front-End Web Developer** seeking opportunities to grow and contribute to impactful projects. Feel free to explore my work and contact me for potential collaborations.</p>
 </p>
+
 
 
 <!---
